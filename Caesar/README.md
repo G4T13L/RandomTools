@@ -25,8 +25,11 @@ example: ./caesar_cli.sh -w "hola que tal" -n 13 -o encrypt
 
 	El script requiere del archivo caesar.py
 
+## Caesar Help
 ![img1](/Caesar/caesar1.png)
+## Ejemplo de uso 1
 ![img2](/Caesar/caesar2.png)
+## Ejemplo de uso 2
 ![img3](/Caesar/caesar3.png)
 
 
