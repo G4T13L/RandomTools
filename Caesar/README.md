@@ -37,9 +37,9 @@ example: ./caesar_cli.sh -w "hola que tal" -n 13 -o encrypt
 
 ## Caesar Help
 ![img1](/Caesar/caesar1.png)
-## Ejemplo de uso 1
+## Ejemplo de uso 1 (encryptando con diccionario por defecto)
 ![img2](/Caesar/caesar2.png)
-## Ejemplo de uso 2
+## Ejemplo de uso 2 (encryptando usuando diccionario personalizado)
 ![img3](/Caesar/caesar3.png)
-## Ejemplo de uso 3
+## Ejemplo de uso 3 (encryptando usuando diccionario personalizado)
 ![img3](/Caesar/caesar4.png)
