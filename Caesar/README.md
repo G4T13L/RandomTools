@@ -41,3 +41,5 @@ example: ./caesar_cli.sh -w "hola que tal" -n 13 -o encrypt
 ![img2](/Caesar/caesar2.png)
 ## Ejemplo de uso 2
 ![img3](/Caesar/caesar3.png)
+## Ejemplo de uso 3
+![img3](/Caesar/caesar4.png)
