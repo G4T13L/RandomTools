@@ -25,9 +25,9 @@ example: ./caesar_cli.sh -w "hola que tal" -n 13 -o encrypt
 
 	El script requiere del archivo caesar.py
 
-!(caesar1.png)
-!(caesar2.png)
-!(caesar3.png)
+!(/RandomTools/Caesar/caesar1.png)
+!(/RandomTools/Caesar/caesar2.png)
+!(/RandomTools/Caesar/caesar3.png)
 
 
 	Esta herramienta esta orientada a un entorno de terminal (CLI command line interpreter)
