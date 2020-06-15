@@ -1,4 +1,4 @@
-"""
+```
   _   ___                                 _      __
  | | / (_)__ ____ ___  ___ _______   ____(_)__  / /  ___ ____
  | |/ / / _ `/ -_) _ \/ -_) __/ -_) / __/ / _ \/ _ \/ -_) __/
@@ -16,7 +16,7 @@ optional arguments:
   -o {encrypt,decrypt}, --option {encrypt,decrypt}
   -d [DICTIONARY], --dictionary [DICTIONARY]
                         dictionary to use in the cipher
-                        """
+```
 ## Help
 
     ./vigenere.py -h
